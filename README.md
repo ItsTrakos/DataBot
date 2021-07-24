@@ -11,3 +11,10 @@ Bot for lookup instagram account data , bot is linked with telegram .
 * pip install telebot 
 * pip install pyTelegramBotAPI
 * python app_6.py
+
+
+## Note !
+# Bot want Id instagram Account For running For get id of any instagram account type 
+## install
+* python GTIN.py
+# and add username for get id
