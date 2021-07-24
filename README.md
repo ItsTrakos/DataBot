@@ -18,3 +18,10 @@ Bot for lookup instagram account data , bot is linked with telegram .
 ## install
 * python GTIN.py
 # and add username for get id
+
+
+
+
+
+## By Trakos 
+https://t.me/trprogram
